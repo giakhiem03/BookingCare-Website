@@ -1,16 +1,6 @@
-# [submodule "NodeJS"]
-# 	path = NodeJS
-# 	url = https://github.com/giakhiem03/BookingCare-NodeJS.git
-
-# [submodule "React.JS"]
-#     path = React.JS
-#     url = https://github.com/giakhiem03/BookingCare-ReactJS.git
-[submodule "ReactJS"]
-	path = ReactJS
-	url = https://github.com/giakhiem03/BookingCare-ReactJS.git
 [submodule "NodeJS"]
 	path = NodeJS
 	url = https://github.com/giakhiem03/BookingCare-NodeJS.git
-[submodule "Node.JS"]
-	path = Node.JS
-	url = https://github.com/giakhiem03/BookingCare-NodeJS.git
+[submodule "ReactJS"]
+	path = ReactJS
+	url = https://github.com/giakhiem03/BookingCare-ReactJS.git
